@@ -1,5 +1,5 @@
 # Excel_Retail_Dashboard_project
-​"An end-to-end retail data analytics project using Advanced Excel. Analyzed 100k+ sales records for Tridha Shopping Center to visualize business KPIs, monthly trends, and regional performance."
+​"An end-to-end retail data analytics project using Advanced Excel. Analyzed 15k sales records for Tridha Shopping Center to visualize business KPIs, monthly trends, and regional performance."
 # Tridha Shopping Center: Sales & KPI Analysis
 
 ## 🎯 Project Objective
@@ -13,7 +13,7 @@ In this dashboard, I focused on:
 - **Payment Method Analysis:** Understanding customer payment preferences (Cash/UPI/Card).
 
 ## 🛠️ Skills & Tools Demonstrated
-- **Data Cleaning:** Used Power Query to remove duplicates and fix formatting errors in 100k+ rows.
+- **Data Cleaning:** Used Power Query to remove duplicates and fix formatting errors in 15k rows.
 - **Advanced Formulas:** Used `VLOOKUP`, `SUMIFS`, and `IF` logic for dynamic calculations.
 - **Pivot Tables & Slicers:** Created interactive filters for Region, Date, and Category.
 - **Data Visualization:** Designed professional Bar charts, Doughnut charts, and KPI cards.
